@@ -110,8 +110,14 @@ oci os object head `
   --name "ad-footprint-report/<artifact-file-name>"
 ```
 
+### Output
+<img width="781" height="154" alt="image" src="https://github.com/user-attachments/assets/2b7d1b4d-99f7-42b0-bac4-860065d5960d" />
+<img width="1919" height="915" alt="image" src="https://github.com/user-attachments/assets/cd127ee9-a93f-4c6c-b3d1-f98c881ad3c1" />
+
+
 ## Safety
 
 - Read-only calls to Identity/Compute/VCN APIs
 - only write operation is Object Storage upload
 - no create/update/delete OCI resource operations
+
